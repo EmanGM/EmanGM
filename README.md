@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 - 👨‍🎓 I’m currently finishing my degree!
-- 📫 Reach me through an email to: *emanyod@gmail.com*
+- 📫 Reach me through an email at *emanyod@gmail.com*
 
 ![EmanGm's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanGM&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanGM&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanGM&theme=transparent&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
