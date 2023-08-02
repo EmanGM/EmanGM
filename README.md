@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨‍🎓 I’m currently finishing my degree!
-- 📫 Reach me through an email at *emanyod@gmail.com*
+- 💻 I’m currently working as a Software Developer at Altice Labs!
+- 📫 Reach me anytime through an email at *emanyod@gmail.com*
 
 ![EmanGm's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmanGM&show_icons=true&theme=transparent)
 
